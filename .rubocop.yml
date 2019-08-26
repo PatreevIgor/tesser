@@ -11,3 +11,5 @@ AllCops:
   Exclude:
     - 'bin/setup'
     - 'bin/update'
+    - 'config/deploy.rb'
+    - 'config/deploy/production.rb'

@@ -1,11 +1,7 @@
 # config valid only for current version of Capistrano
-lock '3.8.1'
+lock '3.11.0'
 
-
-
-
-              
-application = 'avtoklav'
+application = 'tesser'
 login = 'patreewigor4'
 $user = 'hosting_' + login
 $server = 'calcium.locum.ru'

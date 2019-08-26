@@ -1,7 +1,15 @@
 production:
   adapter: mysql2
   encoding: utf8
-  database: patreewi_avtok44
-  username: patreewi_avtok44
-  password: g90HZGxP
-  host: mysql6.locum.ru
+  database: patreewi_tesse59
+  username: patreewi_tesse59
+  password: LrJNoBddBq
+  host: mysql5.locum.ru
+
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: patreewi_tesse59
+  username: patreewi_tesse59
+  password: LrJNoBddBq
+  host: mysql5.locum.ru
